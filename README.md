@@ -39,7 +39,6 @@ Apaixonada por arte, musicais e astronomia. Na minha área, tenho um grande inte
 - 🔬 Pesquisadora em IC – Ionosfera & Física Espacial (FAPESP)
 - 🌎 Inglês fluente
 - 📍 São José dos Campos, SP
-- 💡 Aprendendo sempre 
 
 ---
 
