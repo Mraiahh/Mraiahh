@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mariah%20Cesar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20Estagi%C3%A1ria%20%C2%B7%20Eng.%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20Space%20Physics&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Mariah!+%F0%9F%91%8B;Dev+estagi%C3%A1ria+%7C+Protheus+%2F+TOTVS+%F0%9F%92%BB;Pesquisadora+em+F%C3%ADsica+Espacial+%F0%9F%9B%B0%EF%B8%8F;Apaixonada+por+arte%2C+musicais+e+astronomia+%F0%9F%8E%AD)](https://git.io/typing-svg)
-
-![Visitas](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=a78bfa&style=for-the-badge)
+![Visitas](https://komarev.com/ghpvc/?username=mraiahh&label=Visitas&color=a78bfa&style=for-the-badge)
 ![Women in STEM](https://img.shields.io/badge/Women_in-STEM-ff69b4?style=for-the-badge)
 
 </div>
@@ -74,9 +70,9 @@ Fora do código: arte, musicais e astronomia. 🌌🎭
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="linguagens"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraiahh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="linguagens"/>
 
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=radical&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=mraiahh&theme=radical&hide_border=true" alt="streak"/>
 
 </div>
 
@@ -92,7 +88,7 @@ Fora do código: arte, musicais e astronomia. 🌌🎭
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mraiahh&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -101,7 +97,7 @@ Fora do código: arte, musicais e astronomia. 🌌🎭
 <!-- Requer um workflow (Platane/snk). Se não quiser configurar, apague esta seção. -->
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/mraiahh/mraiahh/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
