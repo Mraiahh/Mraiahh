@@ -95,11 +95,11 @@ Trabalho com desenvolvimento, carrego nas minhas experiências um período de do
 ## ☀️ Clima espacial agora
 
 <div align="center">
-  <img src="https://services.swpc.noaa.gov/images/planetary-k-index-dial.gif" height="260" alt="Índice Kp planetário em tempo real (NOAA SWPC)"/>
+  <img src="./assets/kp.svg" height="200" alt="Índice Kp atual (NOAA SWPC)"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0193.jpg" height="260" alt="Imagem atual do Sol em 193 Å (NASA SDO)"/>
+  <img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0193.jpg" height="200" alt="Imagem atual do Sol em 193 Å (NASA SDO)"/>
   <br/>
-  <sub>Dados: NOAA SWPC · NASA SDO (atualizam sozinhos)</sub>
+  <sub>Dados: NOAA SWPC · NASA SDO</sub>
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
@@ -107,8 +107,7 @@ Trabalho com desenvolvimento, carrego nas minhas experiências um período de do
 ## 📈 No GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mraiahh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&text_color=c9d1d9&icon_color=5eead4&bg_color=0d1117" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraiahh&layout=compact&hide_border=true&langs_count=6&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas"/>
+  <img src="./assets/stats.svg" width="440" alt="Estatísticas do GitHub"/>
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
