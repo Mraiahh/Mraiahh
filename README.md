@@ -17,11 +17,9 @@
 
 </div>
 
-## 👋 Olá, eu sou a Mariah
+## Get to know me!
 
-Escrevo código para ERP durante o dia e estudo a **ionosfera** (a camada da atmosfera que reflete ondas de rádio e é sacudida por tempestades solares) quando o assunto é pesquisa. Entre uma coisa e outra, gosto de arte, musicais e astronomia.
-
-Gosto de desenvolvimento de sistemas, **análise de dados** e **cibersegurança**, e de trabalhar em equipe com Git.
+Trabalho com desenvolvimento, carrego nas minhas experiências um período de dois anos de iniciação científica em física espacial e amo como a tecnologia está em todas as áreas. Além de clicar e digitar, gosto de arte, crochê, musicais e astronomia.
 
 <br/>
 
@@ -31,7 +29,7 @@ Gosto de desenvolvimento de sistemas, **análise de dados** e **cibersegurança*
       <h3>💻 Trabalho</h3>
       Dev estagiária<br/>
       <b>Protheus / TOTVS</b><br/>
-      <sub>ADVPL · Git · time colaborativo</sub>
+      <sub>ADVPL · Git · trabalho em equipe</sub>
     </td>
     <td width="33%" valign="top">
       <h3>🛰️ Pesquisa</h3>
@@ -43,7 +41,7 @@ Gosto de desenvolvimento de sistemas, **análise de dados** e **cibersegurança*
       <h3>🎓 Graduação</h3>
       <b>Engenharia da Computação</b><br/>
       UNIVAP<br/>
-      <sub>Six Sigma White Belt · inglês fluente</sub>
+      <sub>2022 - 2026</sub>
     </td>
   </tr>
 </table>
@@ -96,8 +94,6 @@ Gosto de desenvolvimento de sistemas, **análise de dados** e **cibersegurança*
 
 ## ☀️ Clima espacial agora
 
-Como estudei a ionosfera em períodos perturbados, deixei aqui o clima espacial em tempo real. À esquerda, o índice **Kp** (quanto maior, mais perturbado o campo geomagnético); à direita, o Sol neste momento.
-
 <div align="center">
   <img src="https://services.swpc.noaa.gov/images/planetary-k-index-dial.gif" height="260" alt="Índice Kp planetário em tempo real (NOAA SWPC)"/>
   &nbsp;&nbsp;&nbsp;
@@ -117,7 +113,7 @@ Como estudei a ionosfera em períodos perturbados, deixei aqui o clima espacial 
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
-## 📫 Vamos conversar?
+## 📫 Contato
 
 <div align="center">
 
