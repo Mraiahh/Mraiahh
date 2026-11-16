@@ -1,0 +1,33 @@
+name: Atualizar README
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # a cada 3 horas (o Kp da NOAA também atualiza de 3 em 3 h)
+  workflow_dispatch:         # permite rodar na mão pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: mraiahh
+        run: python scripts/generate.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/kp.svg assets/stats.svg
+          git diff --staged --quiet || git commit -m "chore: atualiza kp e stats"
+          git push
