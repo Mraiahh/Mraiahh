@@ -7,7 +7,7 @@
 ![UNIVAP](https://img.shields.io/badge/Eng._da_Computação-UNIVAP-1e1b4b?style=flat-square&labelColor=312e81&color=1e1b4b)
 ![Dev](https://img.shields.io/badge/Dev_estagiária-Protheus_/_TOTVS-1e1b4b?style=flat-square&labelColor=312e81&color=1e1b4b)
 ![IC](https://img.shields.io/badge/IC_FAPESP-concluída-1e1b4b?style=flat-square&labelColor=312e81&color=1e1b4b)
-![Women in STEM](https://img.shields.io/badge/Women_in-STEM-1e1b4b?style=flat-square&labelColor=312e81&color=1e1b4b)
+![STEM](https://img.shields.io/badge/STEM-1e1b4b?style=flat-square&labelColor=312e81&color=1e1b4b)
 
 <br/>
 
@@ -95,8 +95,6 @@ Trabalho com desenvolvimento, carrego nas minhas experiências um período de do
 ## ☀️ Clima espacial agora
 
 <div align="center">
-  <img src="./assets/kp.svg" height="200" alt="Índice Kp atual (NOAA SWPC)"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0193.jpg" height="200" alt="Imagem atual do Sol em 193 Å (NASA SDO)"/>
   <br/>
   <sub>Dados: NOAA SWPC · NASA SDO</sub>
@@ -104,13 +102,6 @@ Trabalho com desenvolvimento, carrego nas minhas experiências um período de do
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
-## 📈 No GitHub
-
-<div align="center">
-  <img src="./assets/stats.svg" width="440" alt="Estatísticas do GitHub"/>
-</div>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📫 Contato
 
