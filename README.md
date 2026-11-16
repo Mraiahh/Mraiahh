@@ -69,7 +69,7 @@ Fora do código: arte, musicais e astronomia. 🌌🎭
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mraiahh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraiahh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="linguagens"/>
 
 <img src="https://streak-stats.demolab.com/?user=mraiahh&theme=radical&hide_border=true" alt="streak"/>
